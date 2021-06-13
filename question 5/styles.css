@@ -1,0 +1,94 @@
+body{
+    background: url("munnar_hills_kerala_india.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+.college{
+    margin-top: 200px;
+    margin-left: 300px;
+}
+a{
+
+    color: blue;
+    text-decoration: none;
+}
+h1{
+    color:blue
+}
+a:hover {
+    color: yellow;
+  }
+.mag{
+    font-size: 30px;
+}
+
+#pricing {
+    padding: 100px;
+  }
+  
+  .price-text {
+    font-size: 3rem;
+    line-height: 1.5;
+  }
+  
+  .pricing-column {
+    padding: 3% 2%;
+  }
+  
+ 
+.container span{
+display: block;
+
+
+}
+.container{
+  text-align: center;
+  
+}
+.text1{
+  letter-spacing: 8px;
+  font-weight: 700;
+  margin-bottom: 15px;
+  animation: text 3s 1;
+  
+}
+.text2{
+  font-size: 20px;
+  letter-spacing: 4px;
+  animation: text 3s 1;
+
+}
+
+@keyframes text {
+  0%{
+    color:black;
+    margin: bottom -40px; ;
+  }
+30%{
+  letter-spacing: 25px;
+  margin-bottom: -40px;
+}
+85%{
+  letter-spacing: 8px;
+  margin-bottom: -40px;
+}
+}
+.testi{
+  background: rgb(231, 221, 221);
+  height: 500px;
+  width: 1400px;
+  margin-top: 50px;
+
+  
+}
+.textihead{
+  
+  color: black;
+  text-align: center;
+  size: 50px;
+  font-family: sans-serif
+}
+
