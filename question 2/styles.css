@@ -1,0 +1,19 @@
+body{
+    background-image: url("messi.jpg");
+    background-repeat: no-repeat;
+    background-size: 1400px 450px;
+    background-attachment: fixed;
+    margin: 0.5em;
+
+}
+H2{
+    font-size: 50px;
+    text-align: center;
+    margin-top: 0px;
+    color: #DB002C;
+}
+p{
+    color: #EDBC00;
+    line-height: 1.5;
+    font-size: 30px;
+}
